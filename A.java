@@ -1,0 +1,1 @@
+flutterfire configure --project=instax-77216
