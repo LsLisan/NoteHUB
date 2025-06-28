@@ -212,13 +212,7 @@ class _NewsFeedPageState extends State<NewsFeedPage> with SingleTickerProviderSt
           ),
         ],
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          // Implement create new post functionality
-        },
-        backgroundColor: Colors.orange,
-        child: const Icon(Icons.add),
-      ),
+      
     );
   }
 

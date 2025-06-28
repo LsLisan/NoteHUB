@@ -1,6 +1,5 @@
-import 'dart:ui'; // Required for ImageFilter
+import 'dart:ui';
 import 'package:flutter/material.dart';
-// Assuming these pages exist in your project
 import 'package:notehub/pages/intro/postANote.dart';
 import 'package:notehub/pages/manu.dart';
 import 'package:notehub/pages/newsFeeds.dart';
